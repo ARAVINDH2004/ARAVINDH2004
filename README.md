@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARAVINDH2004
+- 👋 Hi, I’m ARAVINDH
 - 👀 I’m interested in technical analysis of stock market
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on people who have an interest in stock market
